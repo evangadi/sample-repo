@@ -1,0 +1,9 @@
+$ npm uninstall -g create-react-app
+npm ERR! code MODULE_NOT_FOUND
+npm ERR! Cannot find module 'C:\Users\Hello\AppData\Roaming\npm\node_modules\npm\lib\uninstall.js'
+npm ERR! Require stack:
+npm ERR! - C:\Users\Hello\AppData\Roaming\npm\node_modules\npm\lib\npm.js
+npm ERR! - C:\Users\Hello\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Hello\AppData\Roaming\npm-cache\_logs\2022-12-14T12_15_52_931Z-debug.log
